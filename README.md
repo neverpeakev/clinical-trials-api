@@ -53,3 +53,9 @@ Free-text search across all trial fields.
 ## License
 
 MIT
+
+## Related Projects
+
+- [awesome-clinical-trials](https://github.com/neverpeakev/awesome-clinical-trials) — Curated list of clinical trial resources
+- [clinical-trials-open-data](https://github.com/neverpeakev/clinical-trials-open-data) — Open datasets and Python tools
+- [clinical-trials-guide](https://github.com/neverpeakev/clinical-trials-guide) — Plain-language patient guide
