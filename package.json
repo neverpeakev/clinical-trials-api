@@ -1,0 +1,18 @@
+{
+  "name": "clinical-trials-api",
+  "version": "1.0.0",
+  "description": "Lightweight JavaScript/TypeScript client for the ClinicalTrials.gov API v2. Search recruiting trials by condition, location, and status.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "homepage": "https://hellostudys.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neverpeakev/clinical-trials-open-data"
+  },
+  "keywords": ["clinical-trials", "clinicaltrials-gov", "medical", "health", "api", "clinical-trial-matching", "healthcare"],
+  "author": "HelloStudys <hello@hellostudys.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neverpeakev/clinical-trials-open-data/issues"
+  }
+}
